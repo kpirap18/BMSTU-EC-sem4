@@ -1,4 +1,10 @@
-# Laboratory work on the subject "Architecture of the electronic computer"
+# Course: 2
+
+## Semester: 4
+
+### Subject: Architecture of the electronic computer
+
+Done all labs
 
 Laboratory work 3 and 4 are possible in variations.
 
